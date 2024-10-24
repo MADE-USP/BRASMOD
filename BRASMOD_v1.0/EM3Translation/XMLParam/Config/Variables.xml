@@ -16073,6 +16073,12 @@
       <Monetary>0</Monetary>
       <HHLevel>1</HHLevel>
     </VAR>
+    <VAR>
+      <ID>bc9d43c3-ad43-4b6e-af1c-49bb4acfb243</ID>
+      <Name><![CDATA[dec02]]></Name>
+      <Monetary>0</Monetary>
+      <HHLevel>0</HHLevel>
+    </VAR>
   </VARs>
   <ACTYPEs>
     <ACTYPE>
