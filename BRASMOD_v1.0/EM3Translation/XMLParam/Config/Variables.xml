@@ -16064,19 +16064,79 @@
     <VAR>
       <ID>0315dd5c-9253-4aa7-a02a-5ecd14edcfd6</ID>
       <Name><![CDATA[khl_s]]></Name>
-      <Monetary>0</Monetary>
-      <HHLevel>1</HHLevel>
+      <Monetary>1</Monetary>
+      <HHLevel>0</HHLevel>
     </VAR>
     <VAR>
       <ID>f8ff1976-4ac8-47bc-a9f9-b238649f0358</ID>
       <Name><![CDATA[ked_s]]></Name>
-      <Monetary>0</Monetary>
-      <HHLevel>1</HHLevel>
+      <Monetary>1</Monetary>
+      <HHLevel>0</HHLevel>
     </VAR>
     <VAR>
       <ID>bc9d43c3-ad43-4b6e-af1c-49bb4acfb243</ID>
       <Name><![CDATA[dec02]]></Name>
       <Monetary>0</Monetary>
+      <HHLevel>0</HHLevel>
+    </VAR>
+    <VAR>
+      <ID>242a99dd-6b71-4afa-b9c3-182a09a51591</ID>
+      <Name><![CDATA[khl0101]]></Name>
+      <Monetary>1</Monetary>
+      <HHLevel>0</HHLevel>
+    </VAR>
+    <VAR>
+      <ID>d533941f-2428-4e8a-9543-a4ed82c2bcc0</ID>
+      <Name><![CDATA[khl0102]]></Name>
+      <Monetary>1</Monetary>
+      <HHLevel>0</HHLevel>
+    </VAR>
+    <VAR>
+      <ID>573bb2e7-e3d6-4efe-8076-a15f21b579bf</ID>
+      <Name><![CDATA[khl0103]]></Name>
+      <Monetary>1</Monetary>
+      <HHLevel>0</HHLevel>
+    </VAR>
+    <VAR>
+      <ID>4f5d123c-ccf4-4776-8e90-85aba24077ff</ID>
+      <Name><![CDATA[khl0201]]></Name>
+      <Monetary>1</Monetary>
+      <HHLevel>0</HHLevel>
+    </VAR>
+    <VAR>
+      <ID>e45a589d-ce79-4860-b258-d025e3a67334</ID>
+      <Name><![CDATA[khl03]]></Name>
+      <Monetary>1</Monetary>
+      <HHLevel>0</HHLevel>
+    </VAR>
+    <VAR>
+      <ID>13107dde-7c0b-4a08-a1dd-810b9829aa64</ID>
+      <Name><![CDATA[khl0401]]></Name>
+      <Monetary>1</Monetary>
+      <HHLevel>0</HHLevel>
+    </VAR>
+    <VAR>
+      <ID>fef0b675-299d-4ce4-9ac2-dd022b0437c0</ID>
+      <Name><![CDATA[khl0402]]></Name>
+      <Monetary>1</Monetary>
+      <HHLevel>0</HHLevel>
+    </VAR>
+    <VAR>
+      <ID>83789199-dc0c-45cf-914f-b8f1f077f349</ID>
+      <Name><![CDATA[khl05]]></Name>
+      <Monetary>1</Monetary>
+      <HHLevel>0</HHLevel>
+    </VAR>
+    <VAR>
+      <ID>398fb918-1efd-4cb4-afbb-f25ed518e176</ID>
+      <Name><![CDATA[khl06]]></Name>
+      <Monetary>1</Monetary>
+      <HHLevel>0</HHLevel>
+    </VAR>
+    <VAR>
+      <ID>51662822-e4d4-4736-98e0-ec90d06bef89</ID>
+      <Name><![CDATA[khl09]]></Name>
+      <Monetary>1</Monetary>
       <HHLevel>0</HHLevel>
     </VAR>
   </VARs>
