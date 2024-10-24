@@ -16061,6 +16061,18 @@
       <Monetary>1</Monetary>
       <HHLevel>0</HHLevel>
     </VAR>
+    <VAR>
+      <ID>0315dd5c-9253-4aa7-a02a-5ecd14edcfd6</ID>
+      <Name><![CDATA[khl_s]]></Name>
+      <Monetary>0</Monetary>
+      <HHLevel>1</HHLevel>
+    </VAR>
+    <VAR>
+      <ID>f8ff1976-4ac8-47bc-a9f9-b238649f0358</ID>
+      <Name><![CDATA[ked_s]]></Name>
+      <Monetary>0</Monetary>
+      <HHLevel>1</HHLevel>
+    </VAR>
   </VARs>
   <ACTYPEs>
     <ACTYPE>
