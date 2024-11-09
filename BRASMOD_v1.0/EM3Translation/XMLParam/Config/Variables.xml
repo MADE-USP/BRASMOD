@@ -16139,6 +16139,12 @@
       <Monetary>1</Monetary>
       <HHLevel>0</HHLevel>
     </VAR>
+    <VAR>
+      <ID>9e3bc3c0-b45f-4d75-a12d-e93212dd6723</ID>
+      <Name><![CDATA[khl0202]]></Name>
+      <Monetary>1</Monetary>
+      <HHLevel>0</HHLevel>
+    </VAR>
   </VARs>
   <ACTYPEs>
     <ACTYPE>
